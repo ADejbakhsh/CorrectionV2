@@ -10,6 +10,7 @@ It will also diminish the friction for student to put correction slot, make inse
 
 
 Road map:
+```
 [] API
     [] connect
     [] see list of projet available to corrrect
@@ -23,15 +24,16 @@ Road map:
     []show fake point on the top right
     []min project selected
     []how many correction per week
-
+```	
 
 In real version:
+```
 [] Use correction to close gap between coalition (rubber band effect)
     [] only on super corrector
 [] extra point for the coalition that corrected the most this week 
 
 [] show for project that currently need correction
-
+```
 
 
     
